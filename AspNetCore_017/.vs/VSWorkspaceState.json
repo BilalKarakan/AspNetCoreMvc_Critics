@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\sampleProject",
+    "\\sampleProject\\sampleProject.web",
+    "\\sampleProject\\sampleProject.web\\Controllers",
+    "\\sampleProject\\sampleProject.web\\Views",
+    "\\sampleProject\\sampleProject.web\\Views\\Home",
+    "\\sampleProject\\sampleProject.web\\Views\\Product"
+  ],
+  "SelectedNode": "\\sampleProject\\sampleProject.sln",
+  "PreviewInSolutionExplorer": false
+}
